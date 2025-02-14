@@ -7,4 +7,4 @@
 <hr/>
 
 <h1>How Works?</h1>
--Which number you wanna convert to km you should write it and after that you are going to convert that number to km.
+-Which number you wanna convert to km you should write it and you should press calculate button.Finally you can convert that number to km
